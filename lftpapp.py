@@ -15,4 +15,4 @@ import streamlit as st
 
 st.title ('Asistente jurídico Ponos')
 
-st.image ('lftapp.jepg', use_column_width=True)
+st.image ('lftapp.jpeg', use_column_width=True)
