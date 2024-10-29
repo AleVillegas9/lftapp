@@ -9,4 +9,10 @@ Created on Tue Oct 29 14:44:52 2024
 
 import streamlit as st
 
+#-*-*-*-*-*-*
 
+#Paso 2: Datos generales
+
+st.title ('Asistente jurídico Ponos')
+
+st.image ('lftapp.jepg', use_column_width=True)
