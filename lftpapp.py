@@ -13,6 +13,6 @@ import streamlit as st
 
 #Paso 2: Datos generales
 
-st.title ('Asistente jurídico Ponos')
+st.title ('Asistente jurídico Daruk')
 
 st.image ('lftapp.jpeg', use_column_width=True)
